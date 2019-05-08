@@ -178,4 +178,3 @@ def encap(endpointNumber, cmd) {
 		String.format("%s%02X%s", header, endpointNumber, cmd)
 	}
 }
-

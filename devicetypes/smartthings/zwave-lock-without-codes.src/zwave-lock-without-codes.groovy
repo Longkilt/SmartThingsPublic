@@ -568,4 +568,3 @@ private Boolean secondsPast(timestamp, seconds) {
 	}
 	return (now() - timestamp) > (seconds * 1000)
 }
-

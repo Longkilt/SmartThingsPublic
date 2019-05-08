@@ -821,4 +821,3 @@ def sendZigbeeCmds(cmds, delay = 2000) {
 def poll() {
     refresh()
 }
-

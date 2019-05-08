@@ -177,4 +177,3 @@ def configure() {
 		        zigbee.temperatureConfig(30, 300)
 	}
 }
-
